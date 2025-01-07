@@ -43,7 +43,3 @@
 4. **Các công cụ khác**  
    - Apache Tomcat (Web Server)  
    - Maven (Quản lý phụ thuộc)  
-
----
-
-## Cấu trúc thư mục
